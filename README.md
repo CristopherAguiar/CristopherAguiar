@@ -4,7 +4,7 @@
 
 <img src="./assets/terminal.svg" width="100%" alt="whoami: Cristopher Aguiar, UI/UX Designer, Vilhena, RO. Há 5 anos trabalho com comunicação e marketing no cooperativismo, criando identidades visuais, campanhas e eventos. Foi na faculdade que descobri o que mais gosto de fazer: juntar design e tecnologia para criar experiências digitais simples e úteis. Formação: Análise e Desenvolvimento de Sistemas, Unicesumar. Destaque: NASA Space Apps 2025, 3º lugar na etapa local. Interesses: UX, produtos digitais e inovação.">
 
-<img src="./assets/stack.svg" width="100%" alt="Stack — Design: Figma, Illustrator, Photoshop, InDesign. Motion e vídeo: After Effects, Premiere Pro. Desenvolvimento: HTML, CSS, JavaScript, Node.js, Git. Dados: Power BI, VBA, Excel.">
+<img src="./assets/stack.svg" width="100%" alt="Ferramentas — Design: Figma, Illustrator, Photoshop, InDesign. Motion e vídeo: After Effects, Premiere Pro. Stack: HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, NestJS, Tailwind CSS, shadcn/ui, Firebase, Python, Kotlin, Jetpack Compose. Ambiente: Git, GitHub, VS Code, Vercel, Android Studio. Dados: Power BI, Excel, VBA.">
 
 <img src="./assets/secao-repositorios.svg" width="100%" alt="Repositórios">
 
